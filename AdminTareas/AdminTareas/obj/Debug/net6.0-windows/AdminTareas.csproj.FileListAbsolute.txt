@@ -1,0 +1,7 @@
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.csproj.AssemblyReference.cache
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.Form1.resources
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.csproj.GenerateResource.cache
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.AssemblyInfoInputs.cache
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.AssemblyInfo.cs
+C:\Users\ronah\OneDrive\Documentos\Administrador de tareas\AdministradorTareas\AdminTareas\AdminTareas\obj\Debug\net6.0-windows\AdminTareas.csproj.CoreCompileInputs.cache
