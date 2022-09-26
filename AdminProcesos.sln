@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminProcesos", "AdminProcesos\AdminProcesos.csproj", "{51919EDB-982F-4CD2-8059-BA92722467DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51919EDB-982F-4CD2-8059-BA92722467DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51919EDB-982F-4CD2-8059-BA92722467DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51919EDB-982F-4CD2-8059-BA92722467DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51919EDB-982F-4CD2-8059-BA92722467DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0AC37B00-E210-4316-B39B-0BD7FB2243CC}
+	EndGlobalSection
+EndGlobal

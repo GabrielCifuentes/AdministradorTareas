@@ -1,0 +1,17 @@
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\bin\Debug\net6.0-windows\AdminProcesos.exe
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\bin\Debug\net6.0-windows\AdminProcesos.deps.json
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\bin\Debug\net6.0-windows\AdminProcesos.runtimeconfig.json
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\bin\Debug\net6.0-windows\AdminProcesos.dll
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\bin\Debug\net6.0-windows\AdminProcesos.pdb
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.csproj.AssemblyReference.cache
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.Form1.resources
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.csproj.GenerateResource.cache
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.AssemblyInfoInputs.cache
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.AssemblyInfo.cs
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.csproj.CoreCompileInputs.cache
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.dll
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\refint\AdminProcesos.dll
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.pdb
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\AdminProcesos.genruntimeconfig.cache
+C:\Users\ronah\source\repos\AdminProcesos\AdminProcesos\obj\Debug\net6.0-windows\ref\AdminProcesos.dll
