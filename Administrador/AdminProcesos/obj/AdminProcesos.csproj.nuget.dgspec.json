@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronah\\source\\repos\\AdminProcesos\\AdminProcesos\\AdminProcesos.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\admintareas\\AdministradorTareas\\Administrador\\AdminProcesos\\AdminProcesos.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronah\\source\\repos\\AdminProcesos\\AdminProcesos\\AdminProcesos.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\admintareas\\AdministradorTareas\\Administrador\\AdminProcesos\\AdminProcesos.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronah\\source\\repos\\AdminProcesos\\AdminProcesos\\AdminProcesos.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\admintareas\\AdministradorTareas\\Administrador\\AdminProcesos\\AdminProcesos.csproj",
         "projectName": "AdminProcesos",
-        "projectPath": "C:\\Users\\ronah\\source\\repos\\AdminProcesos\\AdminProcesos\\AdminProcesos.csproj",
-        "packagesPath": "C:\\Users\\ronah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronah\\source\\repos\\AdminProcesos\\AdminProcesos\\obj\\",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\admintareas\\AdministradorTareas\\Administrador\\AdminProcesos\\AdminProcesos.csproj",
+        "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\admintareas\\AdministradorTareas\\Administrador\\AdminProcesos\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\ronah\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
